@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ben Collins]]></title>
-        <description><![CDATA[Ben Collins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Triathlete, Speaker and Product Consultant]]></title>
+        <description><![CDATA[Triathlete, Speaker and Product Consultant]]></description>
+        <link>https://thegrid.ai/ben-collins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 15:35:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 15:44:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ben-collins/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Life is going well</p>]]></description>
-            <link>undefinedlife-is-going-well/index.html</link>
+            <link>https://thegrid.ai/ben-collins/life-is-going-well/index.html</link>
             <guid isPermaLink="false">783ab83f-1eb8-4aea-ac07-4ca6006a52df</guid>
-            <pubDate>Mon, 21 Mar 2016 15:34:20 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 15:43:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
