@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: Life is going well
-datePublished: '2016-03-21T15:34:20.531Z'
-dateModified: '2016-03-21T15:34:02.204Z'
+datePublished: '2016-03-21T15:43:25.788Z'
+dateModified: '2016-03-21T15:42:58.471Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-21-life-is-going-well.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-life-is-going-well.md
-published: true
 url: life-is-going-well/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/165dc225-905a-4e9f-bbee-99dff2707df2.jpg)
+
 Life is going well
 
 In the past year I haven't posted much outside of race
@@ -96,12 +98,9 @@ that I'm actually looking forward to again.
 So far, this year is going well.
 
 Photos copyright [Elizabeth Leitzell][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/165dc225-905a-4e9f-bbee-99dff2707df2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c249977a-8c2a-4bab-b07c-bd359820837a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53bad434-43bd-4b01-8d66-b09bcfaad386.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f1d2bc-d6cc-4847-a0af-717e387f1434.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6ee24bd-0286-4bf2-9b1f-d1c44b2b130d.jpg)
 
-reen"����x�
+  
+  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6ee24bd-0286-4bf2-9b1f-d1c44b2b130d.jpg)
 
 [0]: edlphotography.com
